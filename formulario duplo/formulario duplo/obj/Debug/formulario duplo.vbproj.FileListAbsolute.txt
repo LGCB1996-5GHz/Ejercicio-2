@@ -1,0 +1,13 @@
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\bin\Debug\formulario duplo.exe.config
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\bin\Debug\formulario duplo.exe
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\bin\Debug\formulario duplo.pdb
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\bin\Debug\formulario duplo.xml
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\obj\Debug\formulario duplo.vbproj.AssemblyReference.cache
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\obj\Debug\formulario_duplo.Form1.resources
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\obj\Debug\formulario_duplo.Form2.resources
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\obj\Debug\formulario_duplo.Resources.resources
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\obj\Debug\formulario duplo.vbproj.GenerateResource.cache
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\obj\Debug\formulario duplo.vbproj.CoreCompileInputs.cache
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\obj\Debug\formulario duplo.exe
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\obj\Debug\formulario duplo.xml
+E:\TheGordoBondiola\Formulario^2\formulario duplo\formulario duplo\obj\Debug\formulario duplo.pdb
